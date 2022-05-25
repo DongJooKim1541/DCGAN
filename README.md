@@ -16,6 +16,21 @@ Pytorch
 
 <br/>
 
+## Dataset
+```
+/path/to/celeba
+    -> img_align_celeba
+        -> 188242.jpg
+        -> 173822.jpg
+        -> 284702.jpg
+        -> 537394.jpg
+           ...
+```
+[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html]
+
+
+<br/>
+
 ## Result
 
 <img src = "./Training images.PNG" width="60%"> 

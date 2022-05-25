@@ -26,7 +26,9 @@ Pytorch
         -> 537394.jpg
            ...
 ```
-[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html]
+http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+<br/>
+https://drive.google.com/drive/folders/0B7EVK8r0v71pTUZsaXdaSnZBZzg?resourcekey=0-rJlzl934LzC-Xp28GeIBzQ
 
 
 <br/>

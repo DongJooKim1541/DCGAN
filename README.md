@@ -30,5 +30,5 @@ Generator and Discriminator loss
 <br/>
 <br/>
 
-<img src = "./Real and Fake images.PNG" width="50%"> 
+<img src = "./Real and Fake images.PNG" width="70%"> 
 Real and Fake images
